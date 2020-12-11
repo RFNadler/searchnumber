@@ -1,4 +1,4 @@
-A aplicação não foi desenvolvida com GraphQL devido a só ter trabalhado na questão de consulta e não na criação do webserice, o banco de dados usado foi o Mysql.
+A aplicação não foi desenvolvida com GraphQL devido a só ter trabalhado na questão de consulta e não na criação do webserice, o banco de dados usado foi o Mysql.<br/>
 Foram acrescentados dois campos para informar sobre a execução do endpoint :
 MsgStatus --> informa o status da requisição conforme enum KdMsgStatus;
          1 - sequência encontrada;
