@@ -11,4 +11,6 @@ Ex.: A sequencia não foi encontrada "2" e deu erro na gravação dos dados "100
   			 			               
 message   --> descrição do status;<br/>
 
-Forma implementadas algumas validações nos endpoints.
+Forma implementadas algumas validações nos endpoints.<br/>
+
+Estou a disposição para esclarecer qualquer dúvida.
