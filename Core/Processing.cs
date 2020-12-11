@@ -50,6 +50,7 @@ namespace SearchCombinations.Core
 
                             result.Combination = lstSequence;
                             result.MsgStatus = (int)ENUMMsgStatus.KdMsgStatus.kdFound;
+                            result.message = "Combinação encontrada.";
                             break;
                         }
 

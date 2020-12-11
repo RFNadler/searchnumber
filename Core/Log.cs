@@ -38,6 +38,7 @@ namespace SearchCombinations.Core
             }catch(Exception ex)
             {
                 presult.MsgStatus = (int)ENUMMsgStatus.KdMsgStatus.kdError + presult.MsgStatus;
+                presult.message = "Erro na gravação do log: " + ex.Message;
             }
         }
 
