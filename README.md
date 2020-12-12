@@ -7,7 +7,7 @@ MsgStatus --> informa o status da requisição conforme enum KdMsgStatus;<br/>
 			   4 - a pesquisa não retornou nenhum registro;<br/>
 			 100 - erro interno no webservice;<br/>
 Os erros podem ser acumulativos, pois podem ser apenas retorno bem como erros internos.<br/>
-Ex.: A sequencia não foi encontrada "2" e deu erro na gravação dos dados "100", o resultado será: 2 + 100 = 102, ou seja, a sequência não foi encontrada e deu erro em algum outro método, a descrição dá a informação do método que gerou o erro.<br/><br/>
+Ex.: A sequencia não foi encontrada "2" e deu erro na gravação dos dados "100", o resultado será: 2 + 100 = 102, ou seja, a sequência não foi encontrada e deu erro em algum outro método, a descrição dá a informação do método que gerou o erro.<br/>
   			 			               
 message   --> descrição do status;<br/>
 
