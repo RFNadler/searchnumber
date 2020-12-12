@@ -14,4 +14,5 @@ message   --> descrição do status;<br/>
 Forma implementadas algumas validações nos endpoints.<br/>
 
 Endereço para testes: http://audaces.nadlertecsass.com.br<br/>
+
 Estou a disposição para esclarecer qualquer dúvida.
